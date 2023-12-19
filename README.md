@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter development
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Flutter projects.
-- 📫 How to reach me:
+- 📫 How to reach me
   Linkedin:https://www.linkedin.com/in/ahmed-rizwan-676a4225b,
   Email:ahmedrizwan144@gmail.com
 
