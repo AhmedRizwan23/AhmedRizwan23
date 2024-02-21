@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @AhmedRizwan23
-- 👀 I’m interested in Flutter development
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on Flutter projects.
-- 📫 How to reach me
-  Linkedin:https://www.linkedin.com/in/ahmed-rizwan-676a4225b,
-  Email:ahmedrizwan144@gmail.com
+Ahmed Rizwan
 
-<!---
-AhmedRizwan23/AhmedRizwan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm Ahmed, a passionate Flutter developer with a keen interest in building innovative mobile applications.
+
+About Me
+🚀 I'm currently working as a Flutter developer, honing my skills and exploring the endless possibilities of mobile development.
+
+🌱 I'm enthusiastic about learning and staying updated with the latest trends and technologies in the Flutter ecosystem.
+
+💼 I'm open to exciting opportunities and collaborations on Flutter projects.
+
+Get in Touch
+📫 Feel free to reach out to me via:
+
+LinkedIn
+Email: ahmedrizwan144@gmail.com
+Let's connect and create something amazing together! 😊
+
