@@ -1,8 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ahmed Rizwan</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 🔭 I’m currently working on Android and Flutter.
+- 🌱 Continuous learning.
 - 📫 How to reach me: ahmedrizwan144@gmail.com
   
 ### Connect with me:
@@ -18,7 +17,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,java,androidstudio,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRizwan23&show_icons=true&theme=dark)
 
@@ -26,4 +25,3 @@
 
 
 <br>
-⭐️ From [AhmedRizwan23](https://github.com/AhmedRizwan23)
